@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f2f8d1fe-aafc-4b12-ba1e-fd5729ace2c0" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/girl.json" beforeDir="false" afterPath="$PROJECT_DIR$/girl.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,12 +47,28 @@
       <option name="presentableId" value="Default" />
       <updated>1630245001392</updated>
     </task>
+    <task id="LOCAL-00001" summary="Good luck">
+      <created>1630322729339</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1630322729339</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Good luck" />
+    <option name="LAST_COMMIT_MESSAGE" value="Good luck" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="254" y="0" key="CommitChangelistDialog2" timestamp="1630246169206">
+    <state x="254" y="0" key="CommitChangelistDialog2" timestamp="1630322728053">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="254" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1630246169206" />
+    <state x="254" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1630322728053" />
+    <state x="275" y="84" key="Vcs.Push.Dialog.v2" timestamp="1630322731444">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="84" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1630322731444" />
   </component>
 </project>
